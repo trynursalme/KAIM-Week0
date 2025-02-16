@@ -9,7 +9,7 @@
 #### Perform exploratory data analysis (EDA) on environmental measurement data.
 #### Translate insights into actionable recommendations for identifying high-potential regions for solar installations.
 #### Build a Streamlit dashboard to visualize key findings and trends.
-# ***
+***
 ## Dataset Overview
 #### The dataset used in this project is extracted and aggregated from Solar Radiation Measurement Data . Each row contains the following variables:
 
@@ -35,4 +35,17 @@
 #### * Integrated interactive features such as sliders, dropdowns, and buttons.
 #### * Deployed the dashboard to streamlit Community Cloud.
 
-# *** 
+*** 
+
+## Key Features of the dashboard.
+#### The streamlit dashboard includes the following interactive visualizations: 
+
+#### * ***Line Charts :*** Time Series analysis of GHI, DNI, DHI, and Tamb.
+#### * ***Histogram :*** Frequency distributions of key variables.
+#### * ***Polar plots :*** Wind speed and direction distribution.
+#### * ***Scatter Plots :*** Relationships between variables like GHI vs. Tamb
+#### * ***Outlier Detection :*** Highlighting anomalies using Z-scores.
+
+***
+
+# How to Run the Project
