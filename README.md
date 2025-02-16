@@ -49,3 +49,28 @@
 ***
 
 # How to Run the Project
+## Prerequisites
+#### * Python 3.x installed
+#### * Required Libraries installed via requirements.txt
+
+## Steps
+
+#### Clone the repository
+git clone https://github.com/trynursalme/KAIM-Week0.git
+cd KAIM-Weeko
+#### Install dependencies
+pip install -r requirements.txt
+#### Run the Streamlit app 
+streamlit run app/main.py
+
+## Future Improvements
+#### * Incorporate machine learning models to predict solar irradiance.
+#### * Add more advanced statistical analyses (e.g., hypothesis testing).
+#### * Enhance the dashboard with additional interactivity and visualizations.
+
+## Acknowledgments
+#### Special thanks to the entire 10 Academy team for their guidance and support throughout this challenge.
+
+## Contributing
+#### If you’d like to contribute to this project, feel free to fork the repository and submit pull requests. 
+#### For major changes, please open an issue first to discuss what you’d like to add or modify.
