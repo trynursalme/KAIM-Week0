@@ -67,4 +67,4 @@ st.dataframe(outliers.head())
 
 # Footer
 st.markdown("---")
-st.write("Developed with ❤️ using Streamlit.")
+st.write("Developed with ❤️ by Nurselam using Streamlit.")
